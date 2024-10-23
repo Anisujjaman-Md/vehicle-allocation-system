@@ -22,7 +22,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vehicle-allocation-system.git
+   git clone https://github.com/Anisujjaman-Md/vehicle-allocation-system
    cd vehicle-allocation-system
    ```
 
